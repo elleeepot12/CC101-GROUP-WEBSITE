@@ -1,0 +1,49 @@
+body {
+  background-image: url('white.jpg');
+  background-color: #dbf3fa;
+  font-family: Arial, sans-serif;
+  font-style: italic;
+  color: black;
+  margin: 0;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+header {
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  background-color: skyblue;
+  color: black;
+  display: block;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+footer {
+  padding: 30px;
+  text-align: center;
+}
+
+.imgpic {
+  background-position: absolute;
+}

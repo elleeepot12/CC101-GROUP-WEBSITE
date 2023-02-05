@@ -1,0 +1,63 @@
+.container{
+    margin-left: 28%;
+    
+}
+.gandako img{
+    border: 2px solid #f7e9eb;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+    margin-top: 2%;
+    height:103%;
+    position: absolute;
+
+    
+  } 
+  .prettyme{
+    flex-direction: row;
+    height: ;
+  }
+
+  body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #88aea3;
+  }
+  header {
+    background-color: #265c5d;
+    color: rgb(255, 255, 255);
+    padding: 1rem;
+    text-align:;
+    margin: 0px;
+    display: flex;
+  }
+  header a{
+    text-decoration: none;
+    color: white;
+    margin-top: 13px;
+  }
+  header h1 {
+    margin: 0;
+    margin-left: 35%;
+  }
+  main {
+    padding: 2rem;
+  }
+  section {
+    justify-content: left;
+    background-color: #c1d6d8;
+    border: 2px solid #f7e9eb;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    
+  }
+  section h2 {
+    margin-bottom: 0.5rem;
+  }
+
+  .media p{
+    margin: 3px;
+
+  }
+    .media ul li{
+        list-style: square;
+    } 

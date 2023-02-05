@@ -1,0 +1,128 @@
+{
+    text-align: justify;}
+
+
+    .container{
+      margin-left: 28%;
+  }
+
+  *{
+    font-family: 'Times New Roman', Times, serif, 'Times new roman', sans-serif;
+}
+  body {
+    background-image: url('purple.jpg');
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    text-align: justify;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+tr {
+  background-image: url('purple.jpg');
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body {
+  background-image: url('purple.jpg');
+  padding: 20px;
+  text-align:center;
+}
+nav ul {
+    display: flex;
+    font-size: medium;
+    justify-content:justify ;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  nav a {
+    background-color: rgb(146, 127, 164);
+    color: rgb(46, 16, 102);
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+  }
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  display: block;
+  padding: 10px 10px;
+}
+section {
+  justify-content: left;
+  background-color: #82629a;
+  border: 2px solid #f7e9eb;
+  border-radius: 5px;
+  margin-bottom: 2px;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding: 3px;
+  
+}
+section h2 {
+  margin-bottom: 0.5opx;
+}
+main {
+  padding: 20px;
+  text-align: justify;
+}
+
+footer {
+  background-color: rgb(207, 192, 213);
+  padding: 8px;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  nav ul {
+    flex-direction: column;
+  }
+}
+.Social-icon {
+  color: blue;
+  transition: color 0.2s;
+  text-decoration: none;
+  margin: 0 5px;
+}
+.Social-icon:hover{
+  color: rgba(196, 96, 184, 0.837);
+}
+.Social-icon{
+  font-size: 50px;
+}
+.Social-icon2{
+  color: blue;
+  transition: color 0.2s;
+  text-decoration: none;
+  margin: 0 20px;
+}
+.Social-icon2:hover{
+  color: rgba(196, 96, 184, 0.837);
+}
+.Social-icon2{
+  font-size: 50px;
+}
+.Scoial-icon3{
+  color: blue;
+  transition: color 0.2s;
+  text-decoration: none;
+  margin: 0 20px;
+}
+.Social-icon3:hover{
+  color: rgba(196, 96, 184, 0.837);
+}
+.Social-icon3{
+  font-size: 50px;
+}
